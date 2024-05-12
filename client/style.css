@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.video-container {
+    padding: 3px;
+    border-radius: 5px;
+    background-color: black;
+}
+video {
+
+}
